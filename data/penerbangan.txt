@@ -1,0 +1,6 @@
+101|Garuda Indonesia|Jakarta|Palembang|08:00|750000
+102|Lion Air|Palembang|Jakarta|10:30|650000
+103|Aliefth|Siak|Pekanbaru|19:30|1000000
+104|Citilink|Palembang|Batam|15:30|850000
+105|Super Air Jet|Jakarta|Surabaya|18:00|900000
+106|Singapore Airlines|Siak|Pekanbaru|19:30|1900000
