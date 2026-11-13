@@ -162,8 +162,6 @@ Proyek ini dibuat sebagai penerapan pembelajaran pemrograman bahasa C, khususnya
 - Modular programming.
 - Penggunaan header file.
 - Pengolahan file (file handling).
-- Pengelolaan data menggunakan file TXT.
-
 ---
 
 **Project:** Aplikasi Pemesanan Tiket Pesawat  
