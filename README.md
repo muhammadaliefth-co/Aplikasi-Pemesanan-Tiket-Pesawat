@@ -109,13 +109,7 @@ IDPemesanan|NamaPenumpang|IDPenerbangan|NomorKursi|TotalHarga
 git clone https://github.com/muhammadaliefth-co/Aplikasi-Pemesanan-Tiket-Pesawat.git
 ```
 
-### 2. Masuk ke Direktori Proyek
-
-```bash
-cd Aplikasi-Pemesanan-Tiket-Pesawat
-```
-
-### 3. Compile Program
+### 2. Compile Program
 
 Pastikan GCC sudah terpasang.
 
@@ -123,18 +117,10 @@ Pastikan GCC sudah terpasang.
 gcc src/main.c src/penerbangan.c src/kursi.c src/pemesanan.c src/file.c -o aplikasi
 ```
 
-### 4. Jalankan Program
-
-Untuk Windows menggunakan Git Bash:
+### 3. Jalankan Program
 
 ```bash
 ./aplikasi.exe
-```
-
-Untuk Linux:
-
-```bash
-./aplikasi
 ```
 
 **Catatan:** Jalankan program dari direktori utama proyek agar aplikasi dapat menemukan file penyimpanan di dalam folder `data`.
@@ -148,7 +134,7 @@ Proyek ini dikembangkan oleh:
 3. **Imam Akbar Ramadhan** — `26071101400`
 4. **Tengku Suci Firdana** — `26071207843`
 
-**Program Studi:** Teknik Informatika  
+**Program Studi:** Teknik Informatika - A
 **Fakultas:** Teknik
 
 ## 🎯 Tujuan Pengembangan
