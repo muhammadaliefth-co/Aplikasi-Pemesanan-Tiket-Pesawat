@@ -57,15 +57,15 @@ Aplikasi-Pemesanan-Tiket-Pesawat/
 
 ## 📄 Penjelasan Modul
 
-| `main.c` | Mengatur menu utama aplikasi. |
-| `penerbangan.c` | Mengelola data penerbangan. |
-| `penerbangan.h` | Deklarasi struktur dan fungsi penerbangan. |
-| `kursi.c` | Mengelola data dan pemilihan kursi. |
-| `kursi.h` | Deklarasi struktur dan fungsi kursi. |
-| `pemesanan.c` | Mengelola proses pemesanan tiket. |
-| `pemesanan.h` | Deklarasi struktur dan fungsi pemesanan. |
-| `file.c` | Mengatur pembacaan dan penyimpanan data. |
-| `file.h` | Deklarasi fungsi pengelolaan file. |
+1. | `main.c` | Mengatur menu utama aplikasi. |
+2. | `penerbangan.c` | Mengelola data penerbangan. |
+3. | `penerbangan.h` | Deklarasi struktur dan fungsi penerbangan. |
+4. | `kursi.c` | Mengelola data dan pemilihan kursi. |
+5. | `kursi.h` | Deklarasi struktur dan fungsi kursi. |
+6. | `pemesanan.c` | Mengelola proses pemesanan tiket. |
+7. | `pemesanan.h` | Deklarasi struktur dan fungsi pemesanan. |
+8. | `file.c` | Mengatur pembacaan dan penyimpanan data. |
+9. | `file.h` | Deklarasi fungsi pengelolaan file. |
 
 ## 💾 Penyimpanan Data
 
