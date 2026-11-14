@@ -4,8 +4,8 @@
 // FUNGSI: Deklarasi seluruh fungsi baca dan simpan data
 // ==========================================
 
-#ifndef FILE_H
-#define FILE_H
+#ifndef file.h
+#define file.h
 
 #include "penerbangan.h"
 #include "kursi.h"

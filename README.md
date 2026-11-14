@@ -28,7 +28,7 @@ Aplikasi Pemesanan Tiket Pesawat merupakan aplikasi berbasis console yang dikemb
 - Visual Studio Code
 - Git
 - GitHub
-- File TXT sebagai media penyimpanan data
+- File TXT digunakan sebagai media penyimpanan data
 
 ## 📁 Struktur Folder
 
@@ -57,8 +57,6 @@ Aplikasi-Pemesanan-Tiket-Pesawat/
 
 ## 📄 Penjelasan Modul
 
-| File | Fungsi |
-|---|---|
 | `main.c` | Mengatur menu utama aplikasi. |
 | `penerbangan.c` | Mengelola data penerbangan. |
 | `penerbangan.h` | Deklarasi struktur dan fungsi penerbangan. |
@@ -77,7 +75,7 @@ Aplikasi menggunakan file TXT untuk menyimpan data agar informasi tetap tersedia
 
 File: `data/penerbangan.txt`
 
-Format:
+Format: 
 
 ```text
 ID|Maskapai|Asal|Tujuan|Waktu|Harga
@@ -161,6 +159,8 @@ Proyek ini dibuat sebagai penerapan pembelajaran pemrograman bahasa C, khususnya
 - Penggunaan struktur data (`struct`).
 - Modular programming.
 - Penggunaan header file.
+- Penggunaan Array
+- Penggunaan Perulangan
 - Pengolahan file (file handling).
 ---
 
