@@ -109,18 +109,22 @@ IDPemesanan|NamaPenumpang|IDPenerbangan|NomorKursi|TotalHarga
 git clone https://github.com/muhammadaliefth-co/Aplikasi-Pemesanan-Tiket-Pesawat.git
 ```
 
-### 2. Compile Program
+### 2. Buka Ke Folder Project
+```bash
+cd Aplikasi-Pemesanan-Tiket-Pesawat
+```
 
+### 3. Compile Program
 Pastikan GCC sudah terpasang.
 
 ```bash
 gcc src/main.c src/penerbangan.c src/kursi.c src/pemesanan.c src/file.c -o aplikasi
 ```
 
-### 3. Jalankan Program
+### 4. Jalankan Program
 
 ```bash
-./aplikasi.exe
+./aplikasi.exe atau .\aplikasi.exe
 ```
 
 **Catatan:** Jalankan program dari direktori utama proyek agar aplikasi dapat menemukan file penyimpanan di dalam folder `data`.
